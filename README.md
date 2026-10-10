@@ -6,8 +6,9 @@ Examples use a made-up demo company, **Tidepost** (a booking app for small boat 
 
 ## Contents
 1. [The 10-slide investor deck outline](#1-the-10-slide-investor-deck-outline)
+2. [Insight headlines: 8 before and after examples](#2-insight-headlines-8-before-and-after-examples)
 
-More guides are coming soon: insight headlines, a chart chooser and a slide design checklist.
+More guides are coming soon: a chart chooser and a slide design checklist.
 
 ---
 
@@ -72,6 +73,53 @@ Fill the [brackets] with your own real numbers. Never round up or guess.
 9. Team:           [Name], [role], [one fact that matters]. Repeat for each founder.
 10. The ask:       Raising [amount] for [use 1], [use 2], [use 3] to reach [milestone] by [date].
 ```
+
+---
+
+## 2. Insight headlines: 8 before and after examples
+
+A **topic title** names the subject: "Sales update". An **insight headline** says the point as a full sentence: "Online sales grew in May, mostly from returning customers".
+
+People often read only the titles. Insight headlines let them get your message even if they skip the rest of the slide.
+
+### How to write one in 4 steps
+1. Look at the slide and ask: **"So what?"**
+2. Write the answer as **one full sentence with a verb**.
+3. Add the **number or the reason**, if you have one.
+4. Keep it **short**: 2 lines at most, about 15 words.
+
+### 8 before and after examples
+These are generic demo topics. Fill the [brackets] with your own real numbers.
+
+| # | Before (topic title) | After (insight headline) | Why it works |
+|---|---|---|---|
+| 1 | Sales update | Online sales grew [X]% in [month], mostly from returning customers | Gives the result and the reason |
+| 2 | Customer survey results | Customers like the product but say delivery is too slow | States the main finding, not just "results" |
+| 3 | Website traffic | Most visitors come from phones, so we fix the mobile page first | Links the data to an action |
+| 4 | Hiring plan | We need 2 support staff by [month] to answer customers within [X] hours | Says what, when and why |
+| 5 | Budget | Moving [amount] from ads to email keeps costs flat and reaches past buyers | Shows the trade-off |
+| 6 | Product roadmap | Online booking ships in [month]; payments follow in [month] | Gives the order and the dates |
+| 7 | Competitor review | Other tools win on price; we win on how fast a new user can start | Makes the difference clear |
+| 8 | Project status | The launch is on track, but testing is 1 week behind | Honest status that flags the risk |
+
+### Fill-in patterns (copy these)
+```
+[Thing] went [up / down] by [amount] in [period] because [reason]
+[Finding], so we should [action]
+[Option A] beats [Option B] on [what matters most]
+[Project] is [on track / late] because [reason]; next step is [action]
+We need [what] by [date] to [result]
+```
+
+### The 30-second test
+Read **only the titles** of your deck, in order, out loud. If they tell the whole story, your headlines work. If they sound like a list of topics, rewrite them.
+
+### Common mistakes
+- **One-word titles** like "Overview", "Results", "Analysis" or "Q3". They name a topic but say nothing.
+- **A headline the slide does not prove.** If the chart shows something else, change the chart or the headline.
+- **Too long.** Three lines is a paragraph, not a headline. Move detail into the slide.
+- **Vague words** like "strong", "good" or "significant" when you have a real number. Use the number.
+- **A question as a title** ("Why are sales down?"). Give the answer instead.
 
 ---
 
