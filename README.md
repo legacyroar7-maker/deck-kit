@@ -7,8 +7,9 @@ Examples use a made-up demo company, **Tidepost** (a booking app for small boat 
 ## Contents
 1. [The 10-slide investor deck outline](#1-the-10-slide-investor-deck-outline)
 2. [Insight headlines: 8 before and after examples](#2-insight-headlines-8-before-and-after-examples)
+3. [Chart chooser: which chart for which message](#3-chart-chooser-which-chart-for-which-message)
 
-More guides are coming soon: a chart chooser and a slide design checklist.
+More guides are coming soon: a slide design checklist and a "before you send your deck" checklist.
 
 ---
 
@@ -120,6 +121,50 @@ Read **only the titles** of your deck, in order, out loud. If they tell the whol
 - **Too long.** Three lines is a paragraph, not a headline. Move detail into the slide.
 - **Vague words** like "strong", "good" or "significant" when you have a real number. Use the number.
 - **A question as a title** ("Why are sales down?"). Give the answer instead.
+
+## 3. Chart chooser: which chart for which message
+
+Pick the chart from your **message**, not from your data. First write the insight headline (see [section 2](#2-insight-headlines-8-before-and-after-examples)). Then pick the chart that proves it.
+
+### The cheat sheet (8 rows)
+Demo headlines use the made-up company Tidepost. Fill the [brackets] with your own real numbers.
+
+| # | Your message is about | Example headline | Best chart | Avoid |
+|---|---|---|---|---|
+| 1 | **Change over time** | Bookings grew every month since [month] | **Line chart.** Columns also work for up to about 8 time periods. | Pie chart |
+| 2 | **Ranking or comparing items** | Sunset tours sell more than any other tour | **Bar chart**, sorted biggest to smallest. Use flat (horizontal) bars when the labels are long. | 3D bars, random order |
+| 3 | **Parts of a whole** | Half of all bookings now come from phones | **One stacked bar**, or a pie or donut with 2 to 4 slices | A pie with many thin slices |
+| 4 | **How a total builds up or breaks down** | Fuel and crew take [X]% of each ticket price | **Waterfall chart** | Several separate pies |
+| 5 | **Plan vs actual, or before vs after** | Costs came in [X]% under plan | **Two bars side by side** (clustered bar) for each item | Two separate charts the reader must compare |
+| 6 | **How two numbers move together** | Longer tours get higher review scores | **Scatter plot** (one dot per item) | A line joining dots that are not in time order |
+| 7 | **Spread or range** | Most orders are between [X] and [Y] | **Histogram** (columns for each range, such as 0 to 20, 20 to 40) | Showing only the average |
+| 8 | **One big number** | [X] paying operators as of [date] | **No chart.** Show the number large, with a short label and the date. | A chart with one bar |
+
+### 7 rules that make any chart easier to read
+1. **The headline says the point.** "Bookings grew every month", not "Bookings 2026".
+2. **Highlight one thing.** Put the bar or line that matters in your brand colour. Make the rest grey.
+3. **Label the data directly.** Put names next to lines and bars, so the reader does not need a legend.
+4. **Bar and column charts start at zero.** Cutting the axis makes small changes look big.
+5. **Remove clutter:** 3D effects, shadows, heavy gridlines, extra decimals.
+6. **Round numbers.** Write 1.2M, not 1,203,456, unless the exact figure matters.
+7. **Add a source and a date** in small text under the chart.
+
+### Where to find each chart
+| Chart | PowerPoint | Google Slides |
+|---|---|---|
+| Line, bar, column, pie | Insert > Chart | Insert > Chart |
+| Stacked bar, clustered bar | Insert > Chart > Bar, then pick the stacked or clustered style | Insert > Chart > Bar, then open the linked Sheet and change the chart type |
+| Scatter, histogram, waterfall | Insert > Chart (scatter is called X Y; histogram and waterfall need PowerPoint 2016 or newer) | Make it in Google Sheets (Insert > Chart > Chart type), then Insert > Chart > From Sheets |
+
+### The 5-second test
+Show the slide to someone for 5 seconds, then hide it. Ask: "What was the point?" If they cannot say it, cut detail or change the chart.
+
+### Common mistakes
+- **Choosing the chart first** and the message later.
+- **Pie charts for change over time.** A pie shows one moment, not a trend.
+- **Too many lines** on one chart. More than 4 and nobody can follow them. Highlight one, grey the rest, or split the chart.
+- **Different colours for the same thing** on different slides. Keep "this year" the same colour everywhere.
+- **A chart that does not match the headline.** If the headline says "costs fell", the chart must show costs falling.
 
 ---
 
