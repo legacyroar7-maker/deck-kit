@@ -8,8 +8,9 @@ Examples use a made-up demo company, **Tidepost** (a booking app for small boat 
 1. [The 10-slide investor deck outline](#1-the-10-slide-investor-deck-outline)
 2. [Insight headlines: 8 before and after examples](#2-insight-headlines-8-before-and-after-examples)
 3. [Chart chooser: which chart for which message](#3-chart-chooser-which-chart-for-which-message)
+4. [Slide design checklist: 12 rules](#4-slide-design-checklist-12-rules)
 
-More guides are coming soon: a slide design checklist and a "before you send your deck" checklist.
+More guides are coming soon: a "before you send your deck" checklist and alignment shortcuts for Google Slides and PowerPoint.
 
 ---
 
@@ -165,6 +166,61 @@ Show the slide to someone for 5 seconds, then hide it. Ask: "What was the point?
 - **Too many lines** on one chart. More than 4 and nobody can follow them. Highlight one, grey the rest, or split the chart.
 - **Different colours for the same thing** on different slides. Keep "this year" the same colour everywhere.
 - **A chart that does not match the headline.** If the headline says "costs fell", the chart must show costs falling.
+
+---
+
+## 4. Slide design checklist: 12 rules
+
+Good design is not decoration. It helps people read the slide fast and trust it. These 12 rules work in PowerPoint and Google Slides, for any deck.
+
+### The 12 rules
+| # | Rule | What to do | Quick check |
+|---|---|---|---|
+| 1 | **One idea per slide** | If a slide makes two points, split it into two slides. | Can you say the point in one sentence? |
+| 2 | **The title says the point** | Write the title as an insight headline (see [section 2](#2-insight-headlines-8-before-and-after-examples)). | Read only the titles. Do they tell the story? |
+| 3 | **Clear margins** | Keep about 0.5 inch (1.25 cm) empty on every edge. Nothing touches the edge of the slide except a full-bleed photo. | Is any text closer to the edge than the rest? |
+| 4 | **Line things up** | Use the same left edge and the same title position on every slide. Use guides and the Align tools. | Flip between slides. Does the title jump? |
+| 5 | **Big enough text** | Titles 28 to 40 pt. Body text 18 pt or more. Source notes 10 to 12 pt. A deck people read on their own (not presented) can go down to 14 pt body text. | Can you read it on a phone screen? |
+| 6 | **Two fonts at most** | One for titles, one for body text, or one font in two weights. Keep the same sizes on every slide. | Count the fonts in the deck. |
+| 7 | **Strong contrast** | Dark text on a light background, or light text on a dark one. Never place text over a busy photo without a solid box behind it. For web accessibility, a ratio of at least 4.5:1 is the common target for normal text. | Test your text colours in any free contrast checker. |
+| 8 | **Colour with a purpose** | One main colour, one accent colour, plus greys. Use the accent only for the thing that matters. Do not show meaning with colour alone, for example red vs green. | Does the accent point at the key number? |
+| 9 | **Less text** | At most 5 bullets, each one line long. Move detail to the speaker notes or an appendix. | Would you read it out loud word for word? Cut it. |
+| 10 | **Clean images** | Use sharp, high-quality images. Hold Shift while resizing so they do not stretch. Keep one photo style through the deck. | Zoom to 200%. Is it blurry or stretched? |
+| 11 | **Source notes** | Every number, chart or quote gets a source and a date in small text at the bottom of the slide. | Pick any number. Can you see where it came from? |
+| 12 | **Page numbers** | Add slide numbers so people can say "on slide 7" in a meeting or an email. Hide them on the title slide. | Is there a number in the same corner of every slide? |
+
+### Where to find the tools
+| Task | PowerPoint | Google Slides |
+|---|---|---|
+| Show guides | View > Guides | View > Guides > Show guides |
+| Align and space objects | Select objects, then Shape Format > Align | Select objects, then Arrange > Align or Distribute |
+| Same fonts and colours everywhere | View > Slide Master | Slide > Edit theme |
+| Slide numbers | Insert > Header & Footer > Slide number (tick "Don't show on title slide") | Insert > Slide numbers (tick "Skip title slides") |
+| Speaker notes | View > Notes | View > Show speaker notes |
+
+### Quick checklist (copy this)
+```
+[ ] One idea per slide
+[ ] Every title says the point
+[ ] About 0.5 inch (1.25 cm) margins on every edge
+[ ] Titles and text line up on every slide
+[ ] Titles 28 to 40 pt, body 18 pt or more (14 pt for read-only decks)
+[ ] Two fonts at most
+[ ] Strong contrast, no text on busy photos
+[ ] One main colour, one accent, greys
+[ ] 5 bullets at most, one line each
+[ ] Sharp images, not stretched
+[ ] Source and date under every number
+[ ] Slide numbers on every slide except the title
+```
+
+### Common mistakes
+- **Fixing design slide by slide.** Set fonts and colours once in the Slide Master or theme. Then every new slide matches.
+- **Shrinking text to fit.** If text does not fit at 18 pt, the slide has too much on it. Cut or split.
+- **Light grey text on white.** It looks clean on your screen and disappears on a projector.
+- **Logos on every slide** that take space from the content. Keep it on the title and the last slide.
+- **Animations on every bullet.** Use them only when the order of the reveal helps the story.
+- **No slide numbers,** so nobody can point to the slide they have a question about.
 
 ---
 
