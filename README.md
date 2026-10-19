@@ -9,8 +9,9 @@ Examples use a made-up demo company, **Tidepost** (a booking app for small boat 
 2. [Insight headlines: 8 before and after examples](#2-insight-headlines-8-before-and-after-examples)
 3. [Chart chooser: which chart for which message](#3-chart-chooser-which-chart-for-which-message)
 4. [Slide design checklist: 12 rules](#4-slide-design-checklist-12-rules)
+5. [Before you send your deck: 15-point checklist](#5-before-you-send-your-deck-15-point-checklist)
 
-More guides are coming soon: a "before you send your deck" checklist and alignment shortcuts for Google Slides and PowerPoint.
+More guides are coming soon: alignment shortcuts for Google Slides and PowerPoint, and how to write speaker notes that help.
 
 ---
 
@@ -221,6 +222,90 @@ Good design is not decoration. It helps people read the slide fast and trust it.
 - **Logos on every slide** that take space from the content. Keep it on the title and the last slide.
 - **Animations on every bullet.** Use them only when the order of the reveal helps the story.
 - **No slide numbers,** so nobody can point to the slide they have a question about.
+
+---
+
+## 5. Before you send your deck: 15-point checklist
+
+A good deck can still fail at the last step: a wrong name, a broken link, a file too big to open on a phone. Spend 15 minutes on this list before you press send. It works for investor decks, sales decks and work presentations, in PowerPoint and Google Slides.
+
+### The 15 points
+**Content: what the deck says**
+
+| # | Check | How to do it |
+|---|---|---|
+| 1 | **The ask is clear** | The last slide says what you want (money, a meeting, a yes) and what happens next. |
+| 2 | **Every title says the point** | Read only the titles, in order. Do they tell the story? (see [section 2](#2-insight-headlines-8-before-and-after-examples)) |
+| 3 | **Every number is checked** | Each number is correct, the same on every slide and in your email, and has a source and a date. |
+| 4 | **No spelling mistakes** | PowerPoint: Review > Spelling. Google Slides: Tools > Spelling > Spell check. Then read every slide once, slowly. |
+| 5 | **No leftovers** | Press Ctrl+F (Cmd+F on Mac) and search for `[`, `TBD`, `XX`, `draft` and the name of the last company you sent a deck to. |
+
+**File: what they receive**
+
+| # | Check | How to do it |
+|---|---|---|
+| 6 | **Saved as a PDF** | PowerPoint: File > Export > Create PDF/XPS. Google Slides: File > Download > PDF document. Send the editable file only if they ask for it. |
+| 7 | **The PDF looks right** | Open the PDF itself, not your slides. Check fonts, charts, text that is cut off and the number of pages. |
+| 8 | **Nothing private inside** | Remove comments, speaker notes and hidden slides you do not want them to see. PowerPoint: File > Info > Check for Issues > Inspect Document. |
+| 9 | **Small file** | Aim for under about 10 MB so it sends and opens fast. PowerPoint: select a picture, then Picture Format > Compress Pictures. |
+| 10 | **A clear file name** | `Company-deck-2026-10.pdf`, not `final-v3-NEW.pdf`. |
+| 11 | **Every link works** | Click each link in the PDF, not in your slides. |
+
+**Sending: how it reaches them**
+
+| # | Check | How to do it |
+|---|---|---|
+| 12 | **Checked on a phone** | Send the PDF to yourself and open it on your phone. Many people read decks there first. |
+| 13 | **Shared links are view only** | Google Slides: Share > General access > "Anyone with the link" > Viewer. Then open the link in a private browser window to check it works when logged out. |
+| 14 | **The right person, spelled right** | Check their name, their company name and their email address. |
+| 15 | **A short email** | 3 to 5 lines: who you are, what you do, one proof point, your ask. A clear subject line. |
+
+### Demo email (made-up company Tidepost)
+Fill the [brackets] with your own real details.
+```
+Subject: Tidepost deck: online booking for boat tour operators
+
+Hi [Name],
+
+Tidepost lets small boat tour operators take bookings and payments online, day or night.
+We have [X] paying operators as of [date].
+We are raising [amount] to reach [milestone], and I would value 20 minutes of your time.
+
+The deck is attached (10 slides, PDF).
+
+[Your name]
+[Company], [role]
+```
+
+### Quick checklist (copy this)
+```
+CONTENT
+[ ] 1. The ask is clear on the last slide
+[ ] 2. Titles alone tell the story
+[ ] 3. Numbers checked, same everywhere, source and date
+[ ] 4. Spell check run and every slide read once
+[ ] 5. No leftovers: [ , TBD, XX, draft, old company names
+FILE
+[ ] 6. Saved as a PDF
+[ ] 7. Opened the PDF: fonts, charts, page count
+[ ] 8. No private comments, notes or hidden slides
+[ ] 9. Under about 10 MB
+[ ] 10. Clear file name with company and date
+[ ] 11. Every link clicked in the PDF
+SENDING
+[ ] 12. Opened on a phone
+[ ] 13. Shared link is view only and works when logged out
+[ ] 14. Right name, company and email address
+[ ] 15. Short email with a clear subject line
+```
+
+### Common mistakes
+- **Another company's name** left in from the last deck you sent. Always search for it.
+- **Checking the slides, not the PDF.** Fonts and charts can change when you export. Look at the file they will get.
+- **A shared link that asks for access.** The reader clicks, sees "You need access" and moves on.
+- **"Here is our deck" and nothing else.** Give one reason to open it in the email itself.
+- **Sending at once after a big edit.** Wait 10 minutes, then read it again with fresh eyes.
+- **Numbers in the email that do not match the deck.** Copy them from the same place.
 
 ---
 
