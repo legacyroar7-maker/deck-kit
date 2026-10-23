@@ -10,8 +10,9 @@ Examples use a made-up demo company, **Tidepost** (a booking app for small boat 
 3. [Chart chooser: which chart for which message](#3-chart-chooser-which-chart-for-which-message)
 4. [Slide design checklist: 12 rules](#4-slide-design-checklist-12-rules)
 5. [Before you send your deck: 15-point checklist](#5-before-you-send-your-deck-15-point-checklist)
+6. [Alignment shortcuts: 10 tips for PowerPoint and Google Slides](#6-alignment-shortcuts-10-tips-for-powerpoint-and-google-slides)
 
-More guides are coming soon: alignment shortcuts for Google Slides and PowerPoint, and how to write speaker notes that help.
+More guides are coming soon: how to write speaker notes that help.
 
 ---
 
@@ -306,6 +307,61 @@ SENDING
 - **"Here is our deck" and nothing else.** Give one reason to open it in the email itself.
 - **Sending at once after a big edit.** Wait 10 minutes, then read it again with fresh eyes.
 - **Numbers in the email that do not match the deck.** Copy them from the same place.
+
+---
+
+## 6. Alignment shortcuts: 10 tips for PowerPoint and Google Slides
+
+A slide where things are a few pixels off looks rushed, even if the reader cannot say why. Lining things up by eye is slow. These 10 tips do it for you in seconds.
+
+Shortcuts are for Windows. On a Mac, use **Cmd** for Ctrl and **Option** for Alt. A few PowerPoint keys differ on Mac, so hover over a button to see its shortcut.
+
+**How to select more than one object:** hold **Shift** and click each one, or drag a box around them. **Ctrl+A** selects everything on the slide.
+
+### The 10 tips
+| # | Tip | PowerPoint | Google Slides |
+|---|---|---|---|
+| 1 | **Line up several objects at once** | Select them, then Shape Format (or Picture Format) > Align > Left, Center, Right, Top, Middle or Bottom. Keyboard: press **Alt**, then **H, G, A**, then the letter shown on screen. | Select them, then **Arrange > Align** > Left, Center, Right, Top, Middle or Bottom. |
+| 2 | **Make the gaps equal** | Select 3 or more objects, then Align > **Distribute Horizontally** or **Distribute Vertically**. | Select 3 or more objects, then **Arrange > Distribute** > Horizontally or Vertically. |
+| 3 | **Center on the slide** | Align > tick **Align to Slide**, then Align Center (side to side) or Align Middle (top to bottom). Switch back to **Align Selected Objects** after. | **Arrange > Center on page** > Horizontally or Vertically. |
+| 4 | **Move in a straight line** | Hold **Shift** while you drag. | Hold **Shift** while you drag. |
+| 5 | **Nudge in small steps** | **Arrow keys** move a little. **Ctrl + arrow** moves a tiny step. | **Arrow keys** move a little. **Shift + arrow** moves 1 pixel. |
+| 6 | **Copy with the same gap** | **Ctrl+D** to copy, move the copy where you want it, then **Ctrl+D** again: each new copy keeps the same gap. **Ctrl+Shift + drag** copies in a straight line. | **Ctrl+D** to copy. Place the copies, then use tip 2 to make the gaps equal. |
+| 7 | **Use guides** | **Alt+F9** shows or hides guides. **Shift+F9** shows or hides the grid. Hold **Ctrl** and drag a guide to add another one. | **View > Guides > Show guides**. Use **Edit guides** to type exact positions. |
+| 8 | **Same spot on every slide** | Right-click > **Size and Position**, then type the same horizontal and vertical position for each title or logo. | Right-click > **Format options > Position**, then type the same X and Y for each title or logo. |
+| 9 | **Group so things move together** | **Ctrl+G** groups. **Ctrl+Shift+G** ungroups. | **Ctrl+Alt+G** groups. **Ctrl+Alt+Shift+G** ungroups. |
+| 10 | **Resize without stretching** | Hold **Shift** and drag a corner. Hold **Ctrl+Shift** to resize from the middle. | Hold **Shift** and drag a corner. |
+
+### Two extras that save time
+- **Snapping gets in the way?** PowerPoint: hold **Alt** while you drag to place an object freely. Google Slides: **View > Snap to** and turn off Grid or Guides.
+- **Forgot a shortcut?** PowerPoint: press **Alt** and the letters for each tab and button appear. Google Slides: press **Ctrl+/** to see the full shortcut list.
+
+### Demo: line up a "How it works" slide in under a minute
+Made-up company Tidepost has 3 steps on one slide: an icon and a short label for each.
+
+1. Select icon 1 and its label. **Align Center**, then **group** them. Repeat for steps 2 and 3.
+2. Select the 3 groups. **Align Top** so they sit on one line.
+3. Keep them selected. **Distribute Horizontally** so the gaps are equal.
+4. **Group** all 3, then **center** the group on the slide (tip 3).
+5. Flip to the next slide and back. If nothing jumps, you are done.
+
+### Quick checklist (copy this)
+```
+[ ] Objects in a row share the same top or middle line
+[ ] Gaps between objects are equal (Distribute)
+[ ] Main content is centered or sits on the same left edge
+[ ] Titles are in the same spot on every slide (same X and Y)
+[ ] Icons and their labels are grouped
+[ ] No stretched images (resized with Shift)
+[ ] Nothing touches the slide edge (about 0.5 inch / 1.25 cm margin)
+```
+
+### Common mistakes
+- **Lining up by eye.** It looks fine at 60% zoom and crooked on a big screen. Use Align and Distribute.
+- **Aligning to the slide by accident** in PowerPoint. If objects jump to the edge, switch back to "Align Selected Objects".
+- **Distributing only 2 objects.** You need 3 or more for equal gaps.
+- **Moving a title on one slide only.** Change it in the Slide Master (PowerPoint) or Edit theme (Google Slides) so every slide matches.
+- **Ungrouped icons and labels** that drift apart when you move them.
 
 ---
 
