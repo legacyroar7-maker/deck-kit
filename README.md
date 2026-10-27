@@ -11,8 +11,9 @@ Examples use a made-up demo company, **Tidepost** (a booking app for small boat 
 4. [Slide design checklist: 12 rules](#4-slide-design-checklist-12-rules)
 5. [Before you send your deck: 15-point checklist](#5-before-you-send-your-deck-15-point-checklist)
 6. [Alignment shortcuts: 10 tips for PowerPoint and Google Slides](#6-alignment-shortcuts-10-tips-for-powerpoint-and-google-slides)
+7. [Speaker notes that help: what to write under each slide](#7-speaker-notes-that-help-what-to-write-under-each-slide)
 
-More guides are coming soon: how to write speaker notes that help.
+More guides are coming soon: a one-page company overview and how to turn a report into slides.
 
 ---
 
@@ -362,6 +363,134 @@ Made-up company Tidepost has 3 steps on one slide: an icon and a short label for
 - **Distributing only 2 objects.** You need 3 or more for equal gaps.
 - **Moving a title on one slide only.** Change it in the Slide Master (PowerPoint) or Edit theme (Google Slides) so every slide matches.
 - **Ungrouped icons and labels** that drift apart when you move them.
+
+---
+
+## 7. Speaker notes that help: what to write under each slide
+
+Speaker notes are the private text under each slide. You see them while you present. Your audience does not. Good notes keep you calm and on time. Bad notes turn into a script you read out loud, word for word, while people stop listening.
+
+The rule: **notes are prompts, not a script.** You should be able to glance down for 2 seconds and know what to say next.
+
+### What to write under each slide (5 parts)
+| # | Part | What to write | Example (Tidepost demo) |
+|---|---|---|---|
+| 1 | **The point** | One short sentence: what this slide proves. Say it in your own words, not the title again. | Operators lose bookings after 6 pm. |
+| 2 | **2 or 3 talking points** | Key words, not full sentences. One line each. | Phone only. Voicemail at night. Customers book elsewhere. |
+| 3 | **The exact number** | Any number you will say, with its source and date, so you never guess under pressure. | [X] of [Y] operators we spoke to, [month year] interviews. |
+| 4 | **The bridge** | One line that leads to the next slide. | "So we built a way to book at any hour." |
+| 5 | **Cues** | Short reminders in brackets: when to click, pause, show something or check the time. | [CLICK: show chart] [PAUSE] [2:30] |
+
+**Optional 6th part:** one question people often ask about this slide, with a one-line answer. It helps most on the market, traction and ask slides.
+
+### 3 before and after examples
+Made-up company Tidepost (a booking app for small boat tour operators). Fill the [brackets] with your own real numbers.
+
+**Example 1: Problem slide**
+
+Before (a script nobody can read at a glance):
+```
+Good morning everyone, thank you for having us. So today I want to start by talking
+about the problem we saw when we first met boat tour operators. Most of them are very
+small businesses and they take bookings over the phone, which means that when they are
+out on the water or when it is late at night they cannot answer, and this means that...
+```
+
+After (prompts you can read in 2 seconds):
+```
+POINT: Operators lose bookings when they cannot pick up the phone.
+- Out on the water all day
+- After 6 pm: voicemail only
+- Customer books another tour instead
+NUMBER: [X] of [Y] operators we interviewed, [month year]
+BRIDGE: "So we built a way to book at any hour."
+[CLICK]
+```
+
+**Example 2: Traction slide**
+
+Before (too vague to help under pressure):
+```
+Talk about numbers. Growth is good. Mention the pilots.
+```
+
+After (exact facts, ready for questions):
+```
+POINT: Operators pay for it and stay.
+- [X] paying operators as of [date]
+- Up from [Y] in [month]
+- [Z] pilots in [region], started [month]
+SOURCE: our billing data, [date]
+IF ASKED "Why did growth slow in [month]?": [one-line honest answer]
+BRIDGE: "Here is how we make money from each operator."
+[TIME CHECK: should be at 5:00]
+```
+
+**Example 3: The ask slide**
+
+Before (no number, no stop):
+```
+Ask for the money. Say thank you. Maybe mention the timeline.
+```
+
+After (clear ask, then stop talking):
+```
+POINT: Raising [amount] to reach [milestone] by [date].
+- [use 1]: [part of amount]
+- [use 2]: [part of amount]
+- [use 3]: [part of amount]
+SAY: "What would you need to see to move forward?"
+[STOP. WAIT FOR THEIR ANSWER.]
+```
+
+### Fill-in template (copy this under each slide)
+```
+POINT:
+-
+-
+-
+NUMBER + SOURCE:
+IF ASKED:
+BRIDGE:
+[CUES]
+```
+
+### Where to find speaker notes
+| Task | PowerPoint | Google Slides |
+|---|---|---|
+| Show the notes box | View > Notes, or click **Notes** in the bar at the bottom | View > Show speaker notes |
+| Present and see your notes | Slide Show > tick **Use Presenter View**, then start the show | Next to the **Slideshow** button, open the arrow > **Presenter view** |
+| Make notes text bigger while presenting | Use the larger text button under the notes in Presenter View | Use the **+** button in the speaker notes window |
+| Print notes to hold or practise with | File > Print > change "Full Page Slides" to **Notes Pages** | File > Print settings and preview > **1 slide with notes**, then Print |
+
+**Tip:** test Presenter View with your real laptop and screen before the day. If you only have one screen, practise from the printed notes instead.
+
+### Notes for a deck people read alone
+Some decks are sent, not presented. Then the reader never sees your notes, or sees them when you did not mean it.
+- If the deck must work on its own, put the key point **on the slide**, in the title (see [section 2](#2-insight-headlines-8-before-and-after-examples)), not only in the notes.
+- Before you send the editable file, remove private notes. See point 8 in [section 5](#5-before-you-send-your-deck-15-point-checklist).
+
+### Quick checklist (copy this)
+```
+[ ] Every slide has notes, even if it is one line
+[ ] Each note starts with the point in one sentence
+[ ] Talking points are key words, 3 lines at most
+[ ] Every number has a source and a date
+[ ] Each note ends with a bridge to the next slide
+[ ] Cues for clicks, pauses and time checks are in [BRACKETS]
+[ ] Likely questions answered on market, traction and ask slides
+[ ] Notes readable at a glance in Presenter View (text made bigger)
+[ ] Practised once out loud, using only the notes
+[ ] Private notes removed before sending the editable file
+```
+
+### Common mistakes
+- **Writing a full script.** You end up reading, not talking. Cut every note to key words.
+- **Copying the slide text into the notes.** Notes should add what the slide does not say: the reason, the source, the bridge.
+- **Numbers from memory.** Write the exact figure and its date in the notes so you never round or guess.
+- **No bridge between slides.** Without one, every slide feels like a fresh start. One linking line fixes it.
+- **Forgetting to stop after the ask.** Put [STOP] in the notes. Silence is part of the ask.
+- **Sending notes you meant to keep private.** Check them before you send any editable file.
 
 ---
 
