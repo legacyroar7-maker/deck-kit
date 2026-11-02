@@ -12,8 +12,9 @@ Examples use a made-up demo company, **Tidepost** (a booking app for small boat 
 5. [Before you send your deck: 15-point checklist](#5-before-you-send-your-deck-15-point-checklist)
 6. [Alignment shortcuts: 10 tips for PowerPoint and Google Slides](#6-alignment-shortcuts-10-tips-for-powerpoint-and-google-slides)
 7. [Speaker notes that help: what to write under each slide](#7-speaker-notes-that-help-what-to-write-under-each-slide)
+8. [One-page company overview: 6 blocks for sales and partner meetings](#8-one-page-company-overview-6-blocks-for-sales-and-partner-meetings)
 
-More guides are coming soon: a one-page company overview and how to turn a report into slides.
+More guides are coming soon: how to turn a report into slides and the pitch deck numbers slide.
 
 ---
 
@@ -491,6 +492,139 @@ Some decks are sent, not presented. Then the reader never sees your notes, or se
 - **No bridge between slides.** Without one, every slide feels like a fresh start. One linking line fixes it.
 - **Forgetting to stop after the ask.** Put [STOP] in the notes. Silence is part of the ask.
 - **Sending notes you meant to keep private.** Check them before you send any editable file.
+
+---
+
+## 8. One-page company overview: 6 blocks for sales and partner meetings
+
+A one-page overview tells a buyer or a partner who you are, what you do for them and what to do next, on a single page. Send it before a meeting so they come prepared, or leave it behind after, so they can share it with their team.
+
+### The 6 blocks
+| # | Block | The question it answers | What to put | Size |
+|---|---|---|---|---|
+| 1 | **Who we are** | What is this company, in one line? | Name, logo and one sentence: "We help [who] [do what] so they [result]." | 1 sentence |
+| 2 | **The problem** | What pain do you fix, and for whom? | One type of customer, their pain and how they handle it today. | 2 to 3 sentences |
+| 3 | **What we offer** | What do I get? | 3 benefits as short bullets, then how it works in 3 steps. | 3 bullets + 3 steps |
+| 4 | **Proof** | Why should I believe you? | Real numbers with a date, pilots, partners or a customer quote you have permission to use. | 2 to 3 lines |
+| 5 | **Why us** | Why you and not the usual way? | 2 or 3 points that make you different from what they use today. | 2 to 3 bullets |
+| 6 | **Next step** | What do you want me to do? | One clear action (a demo, a trial, an intro call) and who to contact. | 1 line + contact |
+
+**Tip:** if you have no proof yet, use block 4 for what is ready today: a working product, a short demo video or a pilot that starts on a set date. Never fill it with guesses.
+
+### Demo: Tidepost sales one-pager (made-up company)
+Numbers in [brackets] are placeholders. Put in your own real, dated figures.
+
+```
+TIDEPOST | Online booking for small boat tour operators
+We help small boat tour operators take bookings and payments online,
+so fewer bookings get lost in calls and messages.
+
+THE PROBLEM
+Many small tour operators take bookings by phone, email and chat.
+Trips get double-booked, deposits get chased by hand, and evenings
+go on answering messages instead of running tours.
+
+WHAT WE OFFER
+- Customers book and pay at any time, from your website or social page
+- One calendar for every boat and trip, so no seat is sold twice
+- Automatic reminders, plus one-click messages when the weather changes
+How it works: 1. We set up your trips and prices
+              2. You add the "Book now" button to your site
+              3. Every booking lands in one calendar
+
+PROOF
+- [number] operators use Tidepost (as of [month year])
+- [number] bookings taken through Tidepost in [period]
+- "[short quote]" [name, business], used with permission
+
+WHY TIDEPOST
+- Built only for boat tours: seat limits per boat, weather cancellations
+- Set up in [number] days, no IT skills needed
+- [price] per month, no fee per booking
+
+NEXT STEP
+Book a 20-minute demo and we will set up one of your trips live.
+[Name], [role] | [email] | [website]
+```
+
+### Sales or partner? What changes
+Blocks 1, 2 and 6 stay almost the same. Blocks 3, 4 and 5 change.
+
+| Block | Sales one-pager (to a buyer) | Partner one-pager (to another company) |
+|---|---|---|
+| 3. What we offer | What the buyer gets | What you do together and who does what |
+| 4. Proof | Customer numbers and quotes | Your reach and the customers you share, e.g. "[number] operators in [region]" |
+| 5. Why us | Better than their current way | What is in it for them: new customers, an extra service for their clients |
+| 6. Next step | A demo or a free trial | A pilot with a start date, an end date and one goal |
+
+**Demo partner line for Tidepost:** "Marinas that list Tidepost operators on their site get a ready booking page for every trip that leaves their harbour."
+
+### Layout rules
+1. **One page.** If it does not fit, cut words, not the font size.
+2. **Page size:** portrait A4 or US Letter for print and PDF. Use a 16:9 slide only if you show it on screen.
+3. **Grid:** two columns or six boxes, read top left to bottom right in block order.
+4. **Text size:** body 10 to 12 pt, block headings 14 to 18 pt, the company line bigger.
+5. **Margins:** at least 1.5 cm (about 0.6 inch) on every side.
+6. **Colour:** one accent colour, used for block headings and the next step.
+7. **Image:** one at most, a product screenshot or photo that shows what you sell.
+8. **Words:** aim for under 250 in total.
+
+### How to set it up
+| Task | PowerPoint | Google Slides |
+|---|---|---|
+| Make the page A4 portrait | Design > Slide Size > Custom Slide Size > **A4 Paper**, Orientation **Portrait** | File > Page setup > Custom > **21 x 29.7 cm** |
+| Add guides for two columns | View > tick **Guides**, then drag them into place | View > Guides > **Show guides**, then Add vertical guide |
+| Save as PDF | File > Export > **Create PDF/XPS** (Mac: File > Export > PDF) | File > Download > **PDF document** |
+
+**Tip:** name the file so it is easy to find later, e.g. `Tidepost-Overview-[Month-Year].pdf`. Before sending, run the file checks in [section 5](#5-before-you-send-your-deck-15-point-checklist).
+
+### Fill-in template (copy this)
+```
+[COMPANY] | [what you do, in 6 words or fewer]
+We help [who] [do what] so they [result].
+
+THE PROBLEM
+[Who] [pain]. Today they [current way], which [why it falls short].
+
+WHAT WE OFFER
+- [benefit 1]
+- [benefit 2]
+- [benefit 3]
+How it works: 1. [step]  2. [step]  3. [step]
+
+PROOF
+- [real number] [what it counts] (as of [date])
+- [pilot, partner or quote, with permission]
+
+WHY US
+- [difference 1]
+- [difference 2]
+
+NEXT STEP
+[One action] | [Name], [role] | [email] | [website]
+```
+
+### Quick checklist (copy this)
+```
+[ ] Fits on one page without shrinking the text
+[ ] Company line says who you help and how, in one sentence
+[ ] Problem names one type of customer
+[ ] Benefits, not a feature list (3 bullets)
+[ ] Every number is real and has a date
+[ ] Quotes and logos used only with permission
+[ ] One next step, not three
+[ ] Contact name and details on the page
+[ ] Saved as PDF with a clear file name
+[ ] Read once by someone outside the company
+```
+
+### Common mistakes
+- **Squeezing a whole deck onto one page.** Six blocks, one idea each. Leave the rest for the meeting.
+- **Starting with company history.** Start with the customer's problem. The history can wait.
+- **Feature lists.** "Calendar sync" says little. "No seat is sold twice" says why it matters.
+- **Proof with no date or source.** A number without a date reads like a guess.
+- **No clear next step.** If the reader does not know what to do, they do nothing.
+- **Same page for buyers and partners.** Change blocks 3, 4 and 5 for each reader.
 
 ---
 
