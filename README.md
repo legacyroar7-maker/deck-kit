@@ -13,8 +13,9 @@ Examples use a made-up demo company, **Tidepost** (a booking app for small boat 
 6. [Alignment shortcuts: 10 tips for PowerPoint and Google Slides](#6-alignment-shortcuts-10-tips-for-powerpoint-and-google-slides)
 7. [Speaker notes that help: what to write under each slide](#7-speaker-notes-that-help-what-to-write-under-each-slide)
 8. [One-page company overview: 6 blocks for sales and partner meetings](#8-one-page-company-overview-6-blocks-for-sales-and-partner-meetings)
+9. [Turn a report into slides: 5 steps from a long document to a 6-slide summary](#9-turn-a-report-into-slides-5-steps-from-a-long-document-to-a-6-slide-summary)
 
-More guides are coming soon: how to turn a report into slides and the pitch deck numbers slide.
+More guides are coming soon: the pitch deck numbers slide and a team slide that builds trust.
 
 ---
 
@@ -625,6 +626,149 @@ NEXT STEP
 - **Proof with no date or source.** A number without a date reads like a guess.
 - **No clear next step.** If the reader does not know what to do, they do nothing.
 - **Same page for buyers and partners.** Change blocks 3, 4 and 5 for each reader.
+
+---
+
+## 9. Turn a report into slides: 5 steps from a long document to a 6-slide summary
+
+You have a 20-page report and a 15-minute meeting. Nobody will read the report in the room, and a deck with 20 pasted pages will lose them by slide 3. This guide turns any long document (a quarterly report, a research paper, a project review) into **6 slides that people remember**, plus an appendix for the detail.
+
+The idea: **the report holds everything, the slides hold the message.** Your job is to choose, not to copy.
+
+### The 5 steps
+| # | Step | What to do | Done when |
+|---|---|---|---|
+| 1 | **Write the one message** | Before you open slides, finish this sentence: "In [period], [what happened], so we [action or ask]." | You can say it out loud in 15 seconds. |
+| 2 | **Make a fact list** | Read the report once with the message in mind. Copy only the facts that support it or put it at risk. Write the page number and the date next to each one. | You have 6 to 12 facts, each with a page number. |
+| 3 | **Sort facts into 6 slides** | Put each fact into one of the 6 slides below. A fact that fits nowhere goes to the appendix or stays in the report. | Every slide has 1 to 3 facts. No slide is empty. |
+| 4 | **Write headlines and pick one visual** | Give each slide an insight headline (see [section 2](#2-insight-headlines-8-before-and-after-examples)). Then pick one chart, table or short list that proves it (see [section 3](#3-chart-chooser-which-chart-for-which-message)). | Reading only the 6 headlines tells the whole story. |
+| 5 | **Check numbers, then build the appendix** | Check every number on the slides against the report. Put the page number in the speaker notes. Move the detail people may ask about into appendix slides after the last slide. | Someone who has not read the report can tell you the message after the meeting. |
+
+**Tip:** do steps 1 to 3 on paper or in a plain text file, not in PowerPoint or Google Slides. Slides make you think about layout too early.
+
+### The 6 slides
+| # | Slide | The question it answers | What to show |
+|---|---|---|---|
+| 1 | **Title with the message** | What is this about, in one line? | Your one message from step 1 as the title. Date, team and who is presenting. |
+| 2 | **Summary in 3 points** | If I only see one slide, what do I need to know? | 3 short lines: the main result, the main problem, the decision or ask. |
+| 3 | **What went well** | What worked, and why? | 1 to 3 wins with real numbers and the reason behind each one. |
+| 4 | **What did not go well** | What went wrong or is at risk? | 1 to 3 problems, what caused them and what is being done. Be honest. |
+| 5 | **The key numbers** | How do the numbers look, compared with before? | One table or chart with 4 to 6 numbers: this period, last period, change. |
+| 6 | **Decisions and next steps** | What do you need from us, and what happens next? | The decision you need today, then 3 next steps, each with an owner and a date. |
+
+**Short on time?** Drop slide 5 and put the 2 most important numbers on slides 3 and 4. Never drop slide 6.
+
+### Demo: Tidepost quarterly update (made-up company)
+Tidepost (a booking app for small boat tour operators) has a 24-page Q3 report. Numbers in [brackets] are placeholders. Put in your own real, dated figures.
+
+**Step 1: the one message**
+```
+In Q3, bookings grew but a payment bug cost us operators,
+so we ask for approval to hire one payments engineer in Q4.
+```
+
+**Step 2: the fact list**
+
+| # | Fact from the report | Page | Use it? |
+|---|---|---|---|
+| 1 | Bookings up [X]% on Q2 | 4 | Yes, slide 3 and 5 |
+| 2 | [X] new operators signed, most through marina partners | 6 | Yes, slide 3 |
+| 3 | A payment bug delayed payouts by up to [X] days in August | 11 | Yes, slide 4 |
+| 4 | [X] operators left after the payout delay | 12 | Yes, slide 4 and 5 |
+| 5 | Average support reply time now [X] hours | 14 | Appendix |
+| 6 | New office move finished in August | 19 | No, stays in the report |
+| 7 | Cash covers [X] months at current spend | 21 | Yes, slide 5 and 6 |
+| 8 | Payments work is done by one part-time developer | 22 | Yes, slide 6 |
+
+**Steps 3 and 4: the 6 slides with insight headlines**
+
+| # | Slide | Headline | Visual |
+|---|---|---|---|
+| 1 | Title | Q3: bookings grew [X]%, but late payouts cost us [Y] operators | Logo, date, presenter |
+| 2 | Summary | Growth is on track; payouts are the one thing to fix | 3 lines: growth, payout problem, hiring decision |
+| 3 | Went well | [X] new operators joined, most through marina partners | Column chart: new operators per month |
+| 4 | Did not go well | A payment bug delayed payouts by up to [X] days and [Y] operators left | Short timeline: bug found, fixed, refunds sent |
+| 5 | Key numbers | Bookings up [X]%, and cash covers [Y] months at current spend | Table: Q2, Q3, change for 5 numbers |
+| 6 | Decisions | We need one yes today: a payments engineer starting in Q4 | The decision, then 3 next steps with owner and date |
+
+Appendix after slide 6: A1 full numbers table, A2 support reply times, A3 how the numbers were counted.
+
+**Step 5: one slide before and after**
+
+Before (a paragraph pasted from page 11):
+```
+Payments
+In August a bug in the payout process affected a number of operators. The issue was
+first reported on [date] and our team investigated it over several days. During this
+time some payouts were delayed. After the fix was released we contacted all affected
+operators and offered refunds of the monthly fee. Some operators chose to leave...
+```
+
+After (headline, 3 lines, source in the notes):
+```
+HEADLINE: A payment bug delayed payouts by up to [X] days and [Y] operators left
+- Found [date], fixed [date]
+- All affected operators refunded one month's fee
+- Next: automatic payout checks every day (see slide 6)
+NOTES: Report pages 11 and 12. [Y] operators left between [date] and [date].
+```
+
+### What goes where
+| Keep on the slides | Move to the appendix | Leave in the report |
+|---|---|---|
+| The facts that prove your message | Detail people may ask about | Background nobody will ask about |
+| 4 to 6 key numbers | Full tables and the method | Long history and process steps |
+| The decision you need | Extra charts by region or month | Facts that do not touch the message |
+
+### How to set it up
+| Task | PowerPoint | Google Slides |
+|---|---|---|
+| Type all 6 headlines fast | View > **Outline View**. Each new line is a new slide; press Tab to make a bullet | Add 6 blank slides, then type each headline. Use View > **Grid view** to see them all |
+| Turn a Word outline into slides | Home > New Slide arrow > **Slides from Outline**. Lines styled Heading 1 become slide titles | No direct import. Paste each headline into a slide |
+| Bring in a chart from your data | Copy the chart in Excel, then Home > Paste > **Keep Source Formatting & Link Data** | Insert > Chart > **From Sheets**, pick the sheet, keep **Link to spreadsheet** ticked |
+| Mark the appendix | Home > Section > **Add Section**, name it "Appendix" | Add a slide with the title "Appendix" before the extra slides |
+| Hide appendix slides in the show | Right-click the slide > **Hide Slide** | Right-click the slide > **Skip slide** |
+| Jump to an appendix slide if asked | Insert > Link > **Place in This Document**, pick the slide | Insert > Link > **Slides in this presentation**, pick the slide |
+
+**Tip:** linked charts update when the data changes. Before you send the deck, check the numbers on the slides still match the report. Then run [section 5](#5-before-you-send-your-deck-15-point-checklist).
+
+### Fill-in template (copy this)
+```
+ONE MESSAGE: In [period], [what happened], so we [action or ask].
+
+1. TITLE:        [the one message, short]
+2. SUMMARY:      [result] / [problem] / [decision or ask]
+3. WENT WELL:    [headline]  | proof: [number, page]
+4. DID NOT:      [headline]  | proof: [number, page] | fix: [what is being done]
+5. KEY NUMBERS:  [headline]  | table: [4 to 6 numbers, this period vs last]
+6. DECISIONS:    We need [decision] by [date]
+                 Next: [step], [owner], [date]
+                       [step], [owner], [date]
+                       [step], [owner], [date]
+APPENDIX:        A1 [ ]  A2 [ ]  A3 [ ]
+```
+
+### Quick checklist (copy this)
+```
+[ ] The one message fits in one sentence and 15 seconds
+[ ] Every fact on the slides comes from the report, with a page number in the notes
+[ ] 6 main slides, extra detail in the appendix
+[ ] Every headline is a full sentence that says the point
+[ ] One visual per slide: chart, table or 3 short lines
+[ ] Bad news is on a slide, not hidden in the appendix
+[ ] Every number has a date and matches the report
+[ ] The last slide names the decision, owners and dates
+[ ] Appendix slides hidden or skipped in the show
+[ ] Read only the 6 headlines out loud: they tell the story
+```
+
+### Common mistakes
+- **Following the report's chapters.** The report is ordered for reading. Slides are ordered for deciding. Start with the message, not chapter 1.
+- **Copying paragraphs onto slides.** If you can read it aloud for 30 seconds, it is too long. Cut to a headline and 3 lines.
+- **Keeping every chart.** One chart per slide, the one that proves the headline. The rest go to the appendix.
+- **Hiding the problem.** People find it later and stop trusting the whole deck. Put it on slide 4 with the fix.
+- **No ask at the end.** A summary with no decision ends in "thanks, interesting". Name what you need.
+- **Numbers that differ from the report.** One wrong number makes people doubt the rest. Check each one against its page.
 
 ---
 
