@@ -14,8 +14,9 @@ Examples use a made-up demo company, **Tidepost** (a booking app for small boat 
 7. [Speaker notes that help: what to write under each slide](#7-speaker-notes-that-help-what-to-write-under-each-slide)
 8. [One-page company overview: 6 blocks for sales and partner meetings](#8-one-page-company-overview-6-blocks-for-sales-and-partner-meetings)
 9. [Turn a report into slides: 5 steps from a long document to a 6-slide summary](#9-turn-a-report-into-slides-5-steps-from-a-long-document-to-a-6-slide-summary)
+10. [Pitch deck numbers slide: which 4 to 6 numbers to show and how to label them](#10-pitch-deck-numbers-slide-which-4-to-6-numbers-to-show-and-how-to-label-them)
 
-More guides are coming soon: the pitch deck numbers slide and a team slide that builds trust.
+More guides are coming soon: a team slide that builds trust and a Google Slides vs PowerPoint cheat sheet.
 
 ---
 
@@ -769,6 +770,171 @@ APPENDIX:        A1 [ ]  A2 [ ]  A3 [ ]
 - **Hiding the problem.** People find it later and stop trusting the whole deck. Put it on slide 4 with the fix.
 - **No ask at the end.** A summary with no decision ends in "thanks, interesting". Name what you need.
 - **Numbers that differ from the report.** One wrong number makes people doubt the rest. Check each one against its page.
+
+---
+
+## 10. Pitch deck numbers slide: which 4 to 6 numbers to show and how to label them
+
+The numbers slide (often called "traction" or "key metrics") is where investors slow down and read closely. A slide with 9 numbers, no dates and unclear units makes them doubt all of them. A slide with 4 to 6 clear, dated numbers is easy to trust and easy to check.
+
+The rule: **4 to 6 numbers, each with a unit, a date and a source.** Everything else goes to the appendix.
+
+### Step 1: pick 4 to 6 numbers for your stage
+| Your stage | Pick from these | Leave off the slide |
+|---|---|---|
+| **Before revenue** | Waitlist sign-ups, signed pilots or letters of intent, customers interviewed, active users in a pilot | Forecasts shown as if they were results |
+| **Early revenue** | Paying customers, monthly recurring revenue (MRR) or monthly revenue, monthly growth, retention | Downloads, page views or followers on their own |
+| **Growing** | Revenue or annual recurring revenue (ARR), growth, gross margin, cost to win one customer, months to earn that cost back | Numbers that do not help a decision, like press mentions |
+
+**How to choose:** pick the numbers that prove people **want it**, **pay for it** and **stay**. If you only have 3 strong numbers, show 3. Never add weak numbers to fill space.
+
+### Step 2: know what each number means
+Investors will ask how you counted. Use the plain meaning below and say it the same way every time.
+
+| Number | Plain meaning | Label it like this (Tidepost demo) |
+|---|---|---|
+| **MRR** | Money from subscriptions you get every month. No one-off fees. | €[X] MRR, September 2026 |
+| **ARR** | MRR x 12. Only for subscription income. | €[X] ARR (MRR x 12), September 2026 |
+| **Monthly growth** | How much a number changed from one month to the next, in %. | Revenue up [X]% a month on average, June to September 2026 |
+| **Retention** | Share of customers who still pay after a set time. | [X]% of operators who joined in Q1 2026 still pay 6 months later |
+| **Gross margin** | Share of revenue left after the direct cost of serving customers. | [X]% gross margin, Q3 2026 |
+| **Cost to win a customer (CAC)** | Sales and marketing spend divided by new customers in the same period. | €[X] to win one operator, Q3 2026 |
+| **Payback** | Months a customer needs to pay back what it cost to win them. | CAC paid back in [X] months |
+| **Booking value (GMV)** | Total value of sales through your platform. **Not your revenue.** | €[X] booked through Tidepost in Q3 2026, Tidepost keeps [Y]% |
+| **Active users** | People who did one key action in a set period. Name the action. | [X] operators took at least one booking in September 2026 |
+
+### Step 3: label every number (5 parts)
+```
+[number]  [unit]  [what it counts]            [date or period]   + source in the footnote
+€[X]      MRR     from [Y] paying operators,  September 2026
+```
+
+7 labelling rules:
+1. **Put a date on every number.** "As of 30 Sep 2026" for a count, "September 2026" or "Q3 2026" for a period.
+2. **Say what a % is a change from.** Not "up 40%" but "up [X]% from June to September 2026".
+3. **Say the currency and use one currency** across the whole deck.
+4. **Pick one style for big numbers** and keep it: €12k or €12,000, not both on one slide.
+5. **Round down, not up.** 1,940 operators is "1,900+", never "2,000".
+6. **Mark totals clearly.** "Total since launch" and "in September" are very different. Never mix them without a label.
+7. **Add a source line** in small text at the bottom: where the numbers come from and when you pulled them.
+
+### Step 4: lay out the slide
+- **Headline says the point**, not "Traction" (see [section 2](#2-insight-headlines-8-before-and-after-examples)).
+- **4 to 6 number tiles** in one row or a 2 x 2 or 2 x 3 grid, all the same size.
+- **Inside each tile:** the big number on top (40 to 54 pt), a short label under it (16 to 18 pt), the date in the label.
+- **One chart at most.** A column chart of one number per month shows growth best (see [section 3](#3-chart-chooser-which-chart-for-which-message)). Start the axis at zero.
+- **Footnote** at the bottom (10 to 12 pt): source, date pulled, and how you counted anything unusual.
+- **Your strongest number goes first**, top left, where people look first.
+
+### 3 before and after examples
+Made-up company Tidepost (a booking app for small boat tour operators). Fill the [brackets] with your own real numbers.
+
+**Example 1: too many numbers, no dates**
+
+Before (9 numbers, nothing to check):
+```
+TRACTION
+[X]+ users | [X] bookings | €[X] | [X]% growth | [X] countries | [X] downloads
+[X] partners | [X]% happy customers | [X] app updates
+```
+What is wrong: "users" is not defined, €[X] could be anything, growth over which period, no dates, no source.
+
+After (4 numbers, each with unit and date):
+```
+HEADLINE: [X] operators now pay for Tidepost, up from [Y] in June
+
+[X]               €[X]               [X]% a month          [X]%
+paying operators  MRR                average revenue       still paying after
+30 Sep 2026       September 2026     growth, Jun-Sep 2026  6 months (joined Q1 2026)
+
+Source: Tidepost billing data, exported 1 Oct 2026. MRR = monthly subscription fees, no setup fees.
+```
+
+**Example 2: booking value shown as revenue**
+
+Before (looks big, but it is the wrong number):
+```
+Revenue: €[X]
+```
+What is wrong: €[X] is the total value of tours customers booked. Most of that money goes to the operators. If an investor finds this out later, they doubt every other number in the deck.
+
+After (two numbers, each named correctly):
+```
+€[X]                              €[Y]
+booked through Tidepost, Q3 2026  Tidepost revenue (fees), Q3 2026
+
+Footnote: Tidepost keeps [Z]% of each booking as a fee. Source: payment data, 1 Oct 2026.
+```
+
+**Example 3: a big % and a chart that only goes up**
+
+Before:
+```
+HEADLINE: 300% growth!
+CHART: total bookings since launch (a line that always rises)
+```
+What is wrong: 300% of what, over which months? A total since launch always goes up, even in a bad month. A big % on a small starting number hides how small it is.
+
+After:
+```
+HEADLINE: Monthly bookings grew from [X] in April to [Y] in September 2026
+CHART: column chart, bookings per month, April to September 2026, axis starts at 0
+Footnote: bookings = paid tour bookings made in the app. Source: Tidepost booking data, 1 Oct 2026.
+```
+If one month fell, keep it in the chart and add the reason in your speaker notes (see [section 7](#7-speaker-notes-that-help-what-to-write-under-each-slide)).
+
+### How to build it
+| Task | PowerPoint | Google Slides |
+|---|---|---|
+| Make 4 equal number tiles | Insert > Shapes > Rectangle, type the number and label, then Ctrl+D 3 times | Insert > Shape > Shapes > Rectangle, then Ctrl+D 3 times |
+| Space the tiles evenly | Select all tiles > Shape Format > Align > **Distribute Horizontally** | Select all tiles > Arrange > Distribute > **Horizontally** |
+| Add a column chart | Insert > Chart > Column, then type your numbers in the data window that opens | Insert > Chart > Column, then use the chart menu > **Open source** to edit the numbers in Sheets |
+| Start the axis at zero | Right-click the axis > Format Axis > Bounds > Minimum **0** | In Sheets: Chart editor > Customise > Vertical axis > Min **0**, then **Update** on the slide |
+| Add the source line | Insert > Text Box at the bottom, 10 to 12 pt | Insert > Text box at the bottom, 10 to 12 pt |
+
+**Tip:** keep all slide numbers in one sheet and link the chart to it, so the deck and your data never disagree. Then run [section 5](#5-before-you-send-your-deck-15-point-checklist) before you send.
+
+### Fill-in template (copy this)
+```
+HEADLINE: [what these numbers prove, in one sentence]
+
+1. [number] [unit] [what it counts], [date]
+2. [number] [unit] [what it counts], [date]
+3. [number] [unit] [what it counts], [date]
+4. [number] [unit] [what it counts], [date]
+(5.) optional
+(6.) optional
+
+CHART (optional): [one number] per month, [first month] to [last month], axis from 0
+FOOTNOTE: Source: [where from], pulled [date]. [Number] = [how you counted it].
+SPEAKER NOTES: IF ASKED "[likely question]": [one-line honest answer]
+```
+
+### Quick checklist (copy this)
+```
+[ ] 4 to 6 numbers on the slide, the rest in the appendix
+[ ] The numbers show people want it, pay for it and stay
+[ ] Every number has a unit and a date
+[ ] Every % says what it is a change from
+[ ] Revenue is your money, not total booking value
+[ ] Totals since launch are labelled as totals
+[ ] One currency and one number style across the deck
+[ ] Rounded down, never up
+[ ] Chart axis starts at zero, bad months kept in
+[ ] Source line with the date you pulled the data
+[ ] Headline says the point, not "Traction"
+[ ] Same numbers as on the market, model and ask slides
+```
+
+### Common mistakes
+- **Showing every number you have.** More numbers do not look stronger. They look like you are hiding the weak one.
+- **No date.** "[X] customers" with no date could be from last year. Investors will assume the worst.
+- **Growth % on a tiny start.** Going from 2 to 8 is 300%. Show the real numbers next to the %.
+- **Mixing up booking value and revenue.** Name each one correctly. Getting caught here costs trust fast.
+- **Forecasts on the traction slide.** Future numbers belong on the plan or ask slide, clearly marked as a plan.
+- **Numbers that change between slides.** If MRR is €[X] on slide 6, it must be €[X] everywhere. Check before you send.
+
+Clear, honest numbers help investors understand your company. They do not guarantee a meeting or an investment.
 
 ---
 
