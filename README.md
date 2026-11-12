@@ -15,8 +15,9 @@ Examples use a made-up demo company, **Tidepost** (a booking app for small boat 
 8. [One-page company overview: 6 blocks for sales and partner meetings](#8-one-page-company-overview-6-blocks-for-sales-and-partner-meetings)
 9. [Turn a report into slides: 5 steps from a long document to a 6-slide summary](#9-turn-a-report-into-slides-5-steps-from-a-long-document-to-a-6-slide-summary)
 10. [Pitch deck numbers slide: which 4 to 6 numbers to show and how to label them](#10-pitch-deck-numbers-slide-which-4-to-6-numbers-to-show-and-how-to-label-them)
+11. [Team slide that builds trust: what to show for each person](#11-team-slide-that-builds-trust-what-to-show-for-each-person)
 
-More guides are coming soon: a team slide that builds trust and a Google Slides vs PowerPoint cheat sheet.
+More guides are coming soon: a Google Slides vs PowerPoint cheat sheet and how to write problem and solution slides.
 
 ---
 
@@ -935,6 +936,185 @@ SPEAKER NOTES: IF ASKED "[likely question]": [one-line honest answer]
 - **Numbers that change between slides.** If MRR is €[X] on slide 6, it must be €[X] everywhere. Check before you send.
 
 Clear, honest numbers help investors understand your company. They do not guarantee a meeting or an investment.
+
+---
+
+## 11. Team slide that builds trust: what to show for each person
+
+Investors back people as much as ideas. The team slide answers one question: **why are you the right people to build this?** Long bios, big titles and a wall of advisors do not answer it. One clear proof line per person does.
+
+The rule: **each person gets a photo, a name, a role and one proof line that links to this problem.**
+
+### Step 1: pick who goes on the slide
+| Group | Show | Leave off |
+|---|---|---|
+| **Founders** | Everyone who works on the company full-time, with the part they own | People who have left or have not committed yet |
+| **Key team** | 1 to 3 people who run a core part (product, sales, operations) | Everyone else. "Team of [X]" in one line is enough |
+| **Advisors** | Up to 3 who help often and agreed to be named, with what they help with | Big names you met once |
+| **Next hires** | The 1 or 2 key roles this round pays for | A long hiring wish list |
+
+**Where the slide goes:** usually slide 9 (see [section 1](#1-the-10-slide-investor-deck-outline)). If you have no revenue yet and your team is your best proof, move it up to slide 3 or 4.
+
+### Step 2: what to write for each person (5 parts)
+| Part | What to write | Example (Tidepost demo) |
+|---|---|---|
+| **Photo** | Recent head and shoulders, same style as everyone else | See the photo rules in step 3 |
+| **Name** | First and last name | [Name] |
+| **Role** | Title + the one thing they own | CEO, sales and operator partnerships |
+| **Proof line** | One past result that matters for this job: what, where, and a number or time | Ran bookings for a [X]-boat tour business, [year] to [year] |
+| **Status** (only if it matters) | Full-time, part-time or joining on a date | Full-time since [month year] |
+
+**The proof line formula:**
+```
+[did what]                + [where or for whom]          + [number or time]       -> links to [this job]
+Built the booking system    for [X] small tour companies    [year] to [year]         -> CTO builds Tidepost
+```
+
+6 rules for proof lines:
+1. **One line, about 8 to 15 words.** An investor should read the whole team in 20 seconds.
+2. **Link it to the problem.** "Led sales at a tour booking site" says more than "MBA, 15 years of experience".
+3. **Only facts they can check.** Investors look people up online. Every line must match the person's public profile.
+4. **Numbers need a date or period.** "[X] operators signed, [year] to [year]", not "many partners".
+5. **No praise words.** Cut "passionate", "visionary", "serial entrepreneur", "rockstar". Let the fact do the work.
+6. **Degrees only if they matter** for this job, for example a marine engineering degree for a boat safety product.
+
+### Step 3: photo rules
+- **Same style for everyone:** same crop (head and shoulders), same shape (all circles or all squares), same size, plain or matching background.
+- **Recent and clear:** face to the camera, good light, no sunglasses, no cut-outs from group photos, no text on the photo.
+- **All colour or all black and white**, not a mix. If the photos look very different, make them all black and white so they match.
+- **At least 400 x 400 px** so faces stay sharp on a big screen.
+- **No good photo for one person?** Use initials in a circle for everyone, not a mix of photos and initials.
+- **Ask first.** Get each person's OK to show their photo and name, advisors too.
+
+### Step 4: lay out the slide
+- **Headline says the point**, not "Team" (see [section 2](#2-insight-headlines-8-before-and-after-examples)). Example: "Two founders who have run boat tours and built booking software".
+- **2 to 4 people in one row**, all the same size and evenly spaced (see [section 6](#6-alignment-shortcuts-10-tips-for-powerpoint-and-google-slides)).
+- **Under each photo:** name (18 pt, bold), role (14 to 16 pt), proof line (14 to 16 pt). Nothing smaller than 14 pt.
+- **Advisors and next hires** go in a smaller row at the bottom, text only or with small photos.
+- **Past employer or school logos are optional.** Text works too. If you use logos, keep them small and grey so the faces stay the focus.
+- **Leave white space.** If the text does not fit, the proof line is too long.
+
+### 3 before and after examples
+Made-up company Tidepost (a booking app for small boat tour operators). People are shown as [Name]. Fill the [brackets] with your own real facts.
+
+**Example 1: long bios full of praise words**
+
+Before:
+```
+TEAM
+[Name], CEO: A passionate, visionary leader with 15+ years of experience across
+many industries. Serial entrepreneur, MBA, loves the sea and building great teams.
+[Name], CTO: Rockstar engineer with deep knowledge of many programming languages
+and a strong track record of success.
+```
+What is wrong: 30+ words per person, nothing that links to boat tours or bookings, nothing an investor can check.
+
+After:
+```
+HEADLINE: Two founders who have run boat tours and built booking software
+
+[Photo]                               [Photo]
+[Name], CEO                           [Name], CTO
+Sales and operator partnerships       Product and engineering
+Ran bookings for a [X]-boat tour      Built the booking system used by
+business, [year] to [year]            [X] tour companies, [year] to [year]
+```
+
+**Example 2: too many people, titles only**
+
+Before:
+```
+OUR TEAM
+8 photos in 2 rows: CEO, CTO, COO, CMO, designer, intern, advisor, advisor
+Each with name and title only
+```
+What is wrong: titles do not say why these people can win. The intern and two advisors who rarely help get the same space as the founders, so the eye has nowhere to start.
+
+After:
+```
+HEADLINE: A team that knows tour operators, payments and mobile apps
+
+Row 1 (big):    [Name], CEO  |  [Name], CTO  |  [Name], Head of operations
+                each with one proof line
+Row 2 (small, text only):
+Advisors: [Name], helps with payments  |  [Name], helps with hiring
+Team of [X] full-time, [Y] part-time
+```
+
+**Example 3: a gap the investor will spot anyway**
+
+Before:
+```
+HEADLINE: World-class team
+[Name], CEO  |  [Name], CTO
+(No one owns sales, but the ask slide says most of the money goes to sales)
+```
+What is wrong: "World-class" is a claim, not proof. And the investor will notice that no one owns sales, the area the money is for. Hiding a gap looks worse than naming it.
+
+After:
+```
+HEADLINE: Founders who built the product, now hiring to grow sales
+
+[Name], CEO: ran bookings for a [X]-boat tour business, [year] to [year]
+[Name], CTO: built booking software for [X] tour companies, [year] to [year]
+
+Next hire, paid for by this round: Head of sales, start [month year]
+Advisor: [Name], [role] at a travel software company, helps with sales hiring
+```
+In your speaker notes, say what the new hire will do first and when you plan to hire (see [section 7](#7-speaker-notes-that-help-what-to-write-under-each-slide)).
+
+### How to build it
+| Task | PowerPoint | Google Slides |
+|---|---|---|
+| Crop a photo to a circle | Select the photo > Picture Format > Crop arrow > **Aspect Ratio** > 1:1, then Crop arrow > **Crop to Shape** > Oval | Crop to a square first (click **Crop**, drag the black handles, press Enter), then click the small arrow next to Crop (**Mask image**) > Shapes > Oval |
+| Make all photos the same size | Select a photo > Picture Format > type the same **Height** and **Width** for each | Right-click > **Format options** > Size & Rotation > type the same Width and Height |
+| Make the photos match | Picture Format > Color > Saturation **0%** (black and white) | Right-click > **Format options** > Recolor > pick a grey option |
+| Space people evenly | Select all > Shape Format > Align > **Distribute Horizontally** | Select all > Arrange > Distribute > **Horizontally** |
+| Add alt text to each photo | Right-click the photo > **View Alt Text** (or Edit Alt Text) > type "[Name], CEO of Tidepost" | Right-click the photo > **Alt text** > type "[Name], CEO of Tidepost" |
+
+**Tip:** build one person block (photo, name, role, proof line), group it, then copy it with Ctrl+D so every block has the same size and fonts.
+
+### Fill-in template (copy this)
+```
+HEADLINE: [why this team can solve this problem, in one sentence]
+
+[Photo]  [Name], [Role]: [the part they own]
+         [Proof line: did what + where + number or time]
+         [Full-time / part-time / joining on date, only if it matters]
+(repeat for 2 to 4 people)
+
+ADVISORS (optional, up to 3): [Name], helps with [what]
+NEXT HIRE (optional): [role], paid for by this round, start [month year]
+TEAM SIZE (optional): [X] full-time, [Y] part-time
+SPEAKER NOTES: how long the founders have worked together; IF ASKED "[likely question]": [one-line honest answer]
+```
+
+### Quick checklist (copy this)
+```
+[ ] Headline says why this team can win, not "Team"
+[ ] 2 to 4 main people, same size, evenly spaced
+[ ] Every role says the part the person owns
+[ ] One proof line each, about 8 to 15 words
+[ ] Each proof line links to this problem
+[ ] Numbers in proof lines have a date or period
+[ ] Every line matches the person's public profile
+[ ] No praise words (passionate, visionary, rockstar)
+[ ] Photos match: same crop, shape, size and colour style
+[ ] Everyone shown agreed to be on the slide
+[ ] Advisors only if they help often, with what they help with
+[ ] A missing skill is named with a hiring plan, not hidden
+[ ] No text smaller than 14 pt
+```
+
+### Common mistakes
+- **Long bios.** Nobody reads a paragraph per person on a slide. One proof line is enough; the rest can go in the appendix.
+- **Titles with no proof.** "CTO" says what someone does now, not why they will do it well.
+- **A wall of advisors.** Investors may call them. If an advisor barely knows you, it hurts more than it helps.
+- **Mixed photos.** A selfie next to a studio photo next to a holiday crop makes the deck look unfinished.
+- **Hiding a gap.** Investors will spot it. Naming the gap and the plan shows you know your business.
+- **Lines that do not match online profiles.** One mismatch makes investors doubt every other slide.
+
+A clear team slide helps investors understand who will build the company. It does not guarantee a meeting or an investment.
 
 ---
 
