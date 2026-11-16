@@ -16,8 +16,9 @@ Examples use a made-up demo company, **Tidepost** (a booking app for small boat 
 9. [Turn a report into slides: 5 steps from a long document to a 6-slide summary](#9-turn-a-report-into-slides-5-steps-from-a-long-document-to-a-6-slide-summary)
 10. [Pitch deck numbers slide: which 4 to 6 numbers to show and how to label them](#10-pitch-deck-numbers-slide-which-4-to-6-numbers-to-show-and-how-to-label-them)
 11. [Team slide that builds trust: what to show for each person](#11-team-slide-that-builds-trust-what-to-show-for-each-person)
+12. [Google Slides vs PowerPoint: 10 tasks side by side](#12-google-slides-vs-powerpoint-10-tasks-side-by-side)
 
-More guides are coming soon: a Google Slides vs PowerPoint cheat sheet and how to write problem and solution slides.
+More guides are coming soon: how to write problem and solution slides and a market size slide.
 
 ---
 
@@ -1115,6 +1116,74 @@ SPEAKER NOTES: how long the founders have worked together; IF ASKED "[likely que
 - **Lines that do not match online profiles.** One mismatch makes investors doubt every other slide.
 
 A clear team slide helps investors understand who will build the company. It does not guarantee a meeting or an investment.
+
+---
+
+## 12. Google Slides vs PowerPoint: 10 tasks side by side
+
+Your team builds the deck in one app, and the person you send it to uses the other. This cheat sheet shows where each everyday task lives in both, so you do not waste time hunting through menus.
+
+Menus are for Windows and the web. On a Mac, use **Cmd** for Ctrl. PowerPoint sharing, live editing and version history need the file saved in **OneDrive or SharePoint**. Menu names can move a little after app updates.
+
+### The 10 tasks
+| # | Task | PowerPoint | Google Slides |
+|---|---|---|---|
+| 1 | **Share a view-only link** | Save to OneDrive, click **Share** (top right), set the link to **Can view**, then **Copy link**. | Click **Share** (top right) > General access > **Anyone with the link** > **Viewer** > **Copy link**. |
+| 2 | **Edit together at the same time** | Save to OneDrive, turn on **AutoSave**, then Share with **Can edit**. You see who is on which slide. | Share with people as **Editor**. Everyone edits live in the browser and you see their cursors. |
+| 3 | **Leave and answer comments** | Select an object > **Review > New Comment** (Ctrl+Alt+M). Type **@** and a name to tag someone. | Select an object > **Insert > Comment** (Ctrl+Alt+M). Type **@** and an email to tag or assign it. |
+| 4 | **Go back to an older version** | **File > Info > Version History**, open an older version, then **Restore**. | **File > Version history > See version history** (Ctrl+Alt+Shift+H), pick a version, then **Restore this version**. |
+| 5 | **Export a PDF** | **File > Export > Create PDF/XPS Document > Create PDF/XPS**. Under **Options**, pick Slides or **Notes pages**. | **File > Download > PDF document**. With notes: **File > Print preview** > **1 slide with notes** > **Download as PDF**. |
+| 6 | **Keep your fonts** | Uses fonts on your computer. To send them with the file: **File > Options > Save** > tick **Embed fonts in the file**. | Uses Google Fonts only. Add more with the Font menu > **More fonts**. You cannot upload your own font. |
+| 7 | **Change slide size (16:9 or 4:3)** | **Design > Slide Size** > Widescreen (16:9), Standard (4:3) or Custom. Pick **Ensure Fit** if you make it smaller. | **File > Page setup** > Widescreen 16:9, Standard 4:3 or Custom. |
+| 8 | **Present with your notes** | **Slide Show** > tick **Use Presenter View**, then start the show. Alt+F5 starts it straight away. | Click the small arrow next to **Slideshow** > **Presenter view**. |
+| 9 | **Present with no internet** | Save a copy on your computer. In OneDrive, right-click the file > **Always keep on this device**. Use videos saved as files, not online videos. | In Chrome or Edge, turn on offline in Google Drive **Settings > Offline**, then in the deck **File > Make available offline**. Bring a PDF as a backup. |
+| 10 | **Move a deck to the other app** | Open the .pptx you downloaded from Google Slides and check every slide (see "Watch out" below). | **File > Download > Microsoft PowerPoint (.pptx)**. From PowerPoint: upload the .pptx to Drive, open it, then **File > Save as Google Slides**. |
+
+### Watch out when you switch apps
+- **Fonts:** a font the other app does not have is swapped for another one. Text can grow and spill out of its box.
+- **Animations and transitions:** simple ones usually survive. Complex ones (like PowerPoint Morph) may be lost or changed.
+- **Charts, SmartArt and diagrams:** they may turn into pictures you cannot edit. Check every number after the move.
+- **Videos and audio:** they may not come across. Add them again in the new app.
+- **Comments and version history** stay behind in the old app. Finish the review before you move the file.
+
+### Which one should you pick?
+| Pick this | When |
+|---|---|
+| **Google Slides** | Your team works in Google Drive, many people edit at once, and you mostly share by link. |
+| **PowerPoint** | Your company or the person you pitch uses Microsoft 365, you need your own brand fonts, or you present where Wi-Fi is weak. |
+| **Either** | You will send a PDF anyway. Both make clean PDFs. |
+
+Simple rule: build in the app your team knows best, and send the format your reader opens without trouble. Not sure what they use? Send a PDF and a view-only link.
+
+### Demo: Tidepost sends a Google Slides deck to an investor who uses PowerPoint
+Made-up company Tidepost built its deck in Google Slides. The investor asks for a PowerPoint file.
+
+1. **File > Version history > Name current version**: "Sent to investor, [date]". You can always find what you sent.
+2. Check the fonts. A Google Font like Montserrat may not be on the investor's computer, so PowerPoint swaps it. Use a common font like Arial, or make sure the PDF is the main file if the font matters.
+3. **File > Download > Microsoft PowerPoint (.pptx)**.
+4. Open the .pptx in PowerPoint and flip through every slide: text overflow, charts, numbers, animations.
+5. Fix anything broken in the .pptx, then send the .pptx plus a PDF (task 5), so the investor can open one either way.
+
+### Quick checklist (copy this)
+```
+[ ] I know which app the reader uses (or I send a PDF too)
+[ ] Shared link is view-only unless they need to edit
+[ ] Fonts are embedded (PowerPoint) or Google Fonts (Google Slides)
+[ ] Slide size is the same for every file I send (16:9 or 4:3)
+[ ] I named or noted the version I sent
+[ ] After switching apps, I checked every slide for fonts, charts and animations
+[ ] Presenter view tested before the meeting
+[ ] Offline copy or PDF ready in case the internet fails
+```
+
+### Common mistakes
+- **Sending an edit link by accident.** Anyone with it can change your deck. Check the role says Viewer or Can view.
+- **Not checking after the switch.** A .pptx from Google Slides can look fine on slide 1 and broken on slide 8.
+- **Brand fonts that only live on your laptop.** The reader sees a different font and your layout moves. Embed fonts or send a PDF.
+- **Trusting the venue Wi-Fi.** Keep a local copy and a PDF on a USB stick or your phone.
+- **Mixing 16:9 and 4:3** in one deck or between files. It leaves black bars or squashed slides.
+
+Both apps can make a clear, professional deck. The app does not decide if a pitch works; the story and the numbers do.
 
 ---
 
